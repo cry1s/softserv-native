@@ -1,4 +1,4 @@
-# SOFTSERV-FRONTEND
+# SOFTSERV-NATIVE
 
 [backend]
 
